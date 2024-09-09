@@ -1,0 +1,10 @@
+* {
+    color: blue;
+}
+p.center {
+    text-decoration:underline dotted rgb(94, 66, 121) ;
+}
+h3, p, h5 {
+    text-align: center;
+    background-color: chartreuse;
+}
