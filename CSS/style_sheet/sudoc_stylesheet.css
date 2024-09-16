@@ -1,0 +1,16 @@
+div {
+    color: blueviolet;
+    background-color: cadetblue;
+    padding: 30px;
+    text-align: center;
+}
+div:hover{
+    background-color: bisque;
+}
+input:focus {
+    color: burlywood;
+    background-color: chocolate;
+}
+p:first-child {
+    color:yellow;
+  }
